@@ -1,0 +1,22 @@
+# Ignore virtual environments
+venv/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.dylib
+*.exe
+
+# Temp files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Ignore IDE/editor configs
+.vscode/
+.idea/
